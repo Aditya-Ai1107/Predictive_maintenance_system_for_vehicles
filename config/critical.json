@@ -1,0 +1,8 @@
+{
+  "mileage" : [400000, 500000],
+  "engine_temp": [106, 150],
+  "oil_pressure": [0, 15],
+  "vibration": [0.6, 1],
+  "brake_wear": [75, 100],
+  "rpm_variance": [300, 500]
+}

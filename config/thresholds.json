@@ -1,0 +1,27 @@
+{
+  "engine_temp": {
+    "safe": [70, 95],
+    "warning": [95, 105],
+    "critical": 105
+  },
+  "oil_pressure": {
+    "safe": [25, 65],
+    "warning": [15, 25],
+    "critical": 15
+  },
+  "vibration": {
+    "safe": [0, 0.3],
+    "warning": [0.3, 0.6],
+    "critical": 0.6
+  },
+  "brake_wear": {
+    "safe": [0, 50],
+    "warning": [50, 75],
+    "critical": 75
+  },
+  "rpm_variance": {
+    "safe": [0, 150],
+    "warning": [150, 300],
+    "critical": 300
+  }
+}
