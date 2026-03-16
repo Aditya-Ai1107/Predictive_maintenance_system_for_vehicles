@@ -193,7 +193,9 @@ This project can be used in:
 
 This project is licensed under the **MIT License**.
 
-## Author
+---
+
+# Author
 
 Aditya Jagdale
 
