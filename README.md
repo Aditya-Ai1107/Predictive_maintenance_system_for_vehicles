@@ -192,3 +192,8 @@ This project can be used in:
 # 📜 License
 
 This project is licensed under the **MIT License**.
+
+## Author
+
+Aditya Jagdale
+
